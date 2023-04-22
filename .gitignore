@@ -1,0 +1,5 @@
+/build
+/dist
+main.spec
+/chrome_driver
+/__pycache__
